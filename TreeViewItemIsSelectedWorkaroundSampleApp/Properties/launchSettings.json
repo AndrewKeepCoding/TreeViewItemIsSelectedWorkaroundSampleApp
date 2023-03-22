@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TreeViewItemIsSelectedWorkaroundSampleApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TreeViewItemIsSelectedWorkaroundSampleApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
